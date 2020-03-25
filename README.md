@@ -1,2 +1,5 @@
 # tabslReviews
-OXID Modul für Shopbewertungen
+
+Shopbewertungen durch Kunden mit Kommentarfunktion.
+
+https://oxid-module.eu/tabsl-reviews/
