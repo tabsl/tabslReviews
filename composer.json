@@ -1,0 +1,27 @@
+{
+	"name": "tabsl/tabslReviews",
+	"version": "1.0.0",
+	"description": "Shopbewertungen durch Kunden mit Kommentarfunktion..",
+	"type": "oxideshop-module",
+	"license": [
+		"proprietary"
+	],
+	"homepage": "https://oxid-module.eu",
+	"author": [{
+		"name": "Tobias Merkl",
+		"homepage": "https://oxid-module.eu"
+	}],
+	"support": {
+		"email": "support@oxid-module.eu"
+	},
+	"autoload": {
+		"psr-4": {
+			"Tabsl\\Reviews\\": "../../../source/modules/tabsl/tabslReviews"
+		}
+	},
+	"extra": {
+		"oxideshop": {
+			"target-directory": "tabsl/tabslReviews"
+		}
+	}
+}
